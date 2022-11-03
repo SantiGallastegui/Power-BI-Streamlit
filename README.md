@@ -1,8 +1,6 @@
 PROYECTO REALIZADO CON POWER BI
 
-## Consigna
-
-Conexión de la API de FTX a un dashboard y cumplir con los siguientes requisitos:
+Conexión de la API de FTX a un dashboard 
 Reporte de calidad y detalle de los datos: Esto quiere decir que deberán crear una documentación en la cuál expliquen qué es cada dato con el cuál decidieron trabajar y, además, su calidad. Puede hacerse en un Markdown.
 Se trabaja directamente con conexión a la API. 
 Eleccion de 10 criptomonedas para el reporte. 
