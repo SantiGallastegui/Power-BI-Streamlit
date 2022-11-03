@@ -1,5 +1,3 @@
-# Streamlit
-
 PROYECTO REALIZADO CON POWER BI
 
 ## Consigna
